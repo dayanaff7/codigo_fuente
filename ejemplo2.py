@@ -1,1 +1,2 @@
-print("comienzo")
+var="Santiago"
+print (var[2:5])
